@@ -1,0 +1,11 @@
+data/hrms.db
+*.sqlite
+*.sqlite3
+*.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+build/
+logs/
